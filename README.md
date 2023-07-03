@@ -4,4 +4,4 @@
 - 🤔 Interested in web development, cybersecurity, network programming and online privacy.
 - 📫 Don't hesitate to contact me by email: [mateipruteanu1@gmail.com](mailto:mateipruteanu1@gmail.com) or on [Linkedin](https://www.linkedin.com/in/mateipruteanu/)
 
-> ⬇️ check out my projects! (their features & code are described in their respective README.md files) ⬇️
+> ⬇️ _check out my projects!_ (their features & code are described **in detail** in their respective README.md files) ⬇️
