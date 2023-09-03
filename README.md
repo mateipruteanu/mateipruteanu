@@ -4,4 +4,12 @@
 - 🤔 Interested in web development, cybersecurity, network programming and online privacy.
 - 📫 Say [hi@mateipruteanu.dev](mailto:hi@mateipruteanu.dev) or contact me on [Linkedin](https://www.linkedin.com/in/mateipruteanu/)!
 
-> ⬇️ _check out my projects!_ (their features & code are described **in detail** in their respective README.md files) ⬇️
+### Languages / Tools / Databases I have experience with:
+- ⚛️ ReactJS (MaterialUI, Tailwind,ReactAuthKit...)
+- ☕ Java (Spring, Spring Security, JPA...)
+- 🌳 NodeJS
+- 📚 MySQL, PostgreSQL, Oracle
+- :octocat: Git
+
+
+> ⬇️ _check out my projects to see this in action!_ (their features & code are described **in detail** in their respective README.md files) ⬇️
