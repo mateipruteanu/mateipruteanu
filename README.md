@@ -5,9 +5,9 @@
 - 📫 Say [hi@mateipruteanu.dev](mailto:hi@mateipruteanu.dev) or contact me on [Linkedin](https://www.linkedin.com/in/mateipruteanu/)!
 
 ### Languages / Tools / Databases I have experience with:
+- 🌳 NodeJS (Express, Typescript, PrismaORM)
 - ⚛️ ReactJS (MaterialUI, Tailwind, ReactAuthKit...)
 - ☕ Java (Spring, Spring Security, JPA...)
-- 🌳 NodeJS
 - 📚 MySQL, PostgreSQL, Oracle
 - :octocat: Git
 
