@@ -6,6 +6,8 @@
 
 ### Languages / Tools / Databases I have experience with:
 - 🌳 NodeJS (Express, Typescript, PrismaORM)
+- 🧪 Jest
+- 📖 Swagger
 - ⚛️ ReactJS (MaterialUI, Tailwind, ReactAuthKit...)
 - ☕ Java (Spring, Spring Security, JPA...)
 - 📚 MySQL, PostgreSQL, Oracle
