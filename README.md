@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Matei!
 
-- 🔋 I’m currently a Computer Science student at the Faculty of Computer Science, UAIC.
+- 🔋 I'm a Computer Science graduate from the Faculty of Computer Science, UAIC.
 - 🤔 Interested in web development, cybersecurity, network programming and online privacy.
 - 📫 Say [hi@mateipruteanu.dev](mailto:hi@mateipruteanu.dev) or contact me on [Linkedin](https://www.linkedin.com/in/mateipruteanu/)!
 
 ### Languages / Tools / Databases I have experience with:
 - 🌳 NodeJS, NestJS (Express, Typescript, PrismaORM)
+- ☁️ Amazon S3
 - 🧪 Jest
 - 📖 Swagger
 - ⚛️ ReactJS, NextJS (MaterialUI, Tailwind, ReactAuthKit...)
